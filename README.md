@@ -1,1 +1,1 @@
-# Genetic-Disorder-Prediction-using-Deep-Learningf
+# Genetic-Disorder-Prediction-using-Machine-Learning
